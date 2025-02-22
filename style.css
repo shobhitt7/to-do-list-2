@@ -38,7 +38,7 @@ input{
     outline: none;
     background: transparent;
     padding: 15px;
-    font-weight: 14px;                                           
+    font-weight: 24px;                                           
 }
 button{
     border: none;
@@ -50,6 +50,7 @@ button{
     cursor: pointer;
     border-radius: 40px;
     width: 30%;
+    justify-content: center;
 }
 ul li {
     list-style: none;
